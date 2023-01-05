@@ -1,6 +1,6 @@
 # Get tree grid
 grid = []
-with open("test.txt", "r") as f:
+with open("day8-input.txt", "r") as f:
     for line in f:
         grid.append(list(line.strip()))
 
