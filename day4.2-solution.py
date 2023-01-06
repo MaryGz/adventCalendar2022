@@ -1,6 +1,3 @@
-one = {2,3,4}
-two = {1,2,3,4,5}
-
 subset_count = 0
 
 with open("day4-input.txt",  "r") as f:
